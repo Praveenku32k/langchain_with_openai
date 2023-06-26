@@ -1,0 +1,1 @@
+openai_key='sy-your open ai key here '
